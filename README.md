@@ -1,4 +1,4 @@
-# LWCSearchPoc
+# LWC Custom Data Type for DataTable
 # Custom Types in LWC Lightning Datatable
 
 Creating Custom Data Types
